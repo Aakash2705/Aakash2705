@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Aakash2705
 - 👀 I’m interested in Web Dev, game-dev, data science
-- 🌱 I’m currently learning C# and Unity
-- 📫 How to reach me: don't
+- 🌱 I’m currently learning C# and Monogame
+- 📫 How to reach me: you can join me on my (very new) discord server:
+-   https://discord.gg/bCYauHMNCC
