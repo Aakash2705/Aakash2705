@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Aakash2705
 - 👀 I’m interested in Web Dev, game-dev, OS dev
 - 🌱 I’m currently learning assembly and C
-- 📫 How to reach me: you can join me on my (very new) discord server:
--   https://discord.gg/bCYauHMNCC
+- 📫 How to reach me: Discord - Raymond Bloodstone#3135
